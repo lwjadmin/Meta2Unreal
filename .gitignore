@@ -488,6 +488,9 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine,visualstudio
+
+
+### 2022.09.05 LWJ Append - Good Bye Others ###
 DerivedDataCache
 Intermediate
 Saved
