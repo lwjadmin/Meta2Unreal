@@ -3,4 +3,5 @@ CollisionProj/Content/ filter=lfs diff=lfs merge=lfs -text
 HelloUnreal/Content/ filter=lfs diff=lfs merge=lfs -text
 L0927ThirdPerson/Content/ filter=lfs diff=lfs merge=lfs -text
 L0928TopView/Content/ filter=lfs diff=lfs merge=lfs -text
-BPCombinedProject/Content/ filter=lfs diff=lfs merge=lfs -text
+BPCombinedProject/Content/*.* filter=lfs diff=lfs merge=lfs -text
+BPHomeProject2/Content/*.* filter=lfs diff=lfs merge=lfs -text
