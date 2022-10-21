@@ -8,3 +8,4 @@ BPHomeProject2/Content/*.* filter=lfs diff=lfs merge=lfs -text
 BPTPSProjectV1/Content/*.* filter=lfs diff=lfs merge=lfs -text
 BPTPSProjectV2/Content/*.* filter=lfs diff=lfs merge=lfs -text
 BPHomeProject3/Content/*.* filter=lfs diff=lfs merge=lfs -text
+FlightSimulatorV1/Content/*.* filter=lfs diff=lfs merge=lfs -text
